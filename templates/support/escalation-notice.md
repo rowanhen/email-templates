@@ -13,21 +13,22 @@ Notifies a customer that their ticket has been moved to a senior agent, speciali
 - **Who now owns it** — name or team, not just "escalated to our team"
 - **Why it was escalated** — brief, honest reason (complexity, speciality needed)
 - **New expected timeline** — reset expectations; the original SLA no longer applies
-- **Single point of contact** — one name/email to reply to, not a queue
+- **Single point of contact** — one reply path only; giving multiple contact options undermines this and creates confusion about who owns the issue
 
-## Non-Obvious Patterns
+## Best Practices
 
-- **Acknowledge the wait** — if escalation is happening because the first response was slow or wrong, say so briefly; silence feels like cover-up
-- **Don't use the word "escalated" in the subject** — it alarms customers; use "our specialist team is on this" instead
+- **Acknowledge the wait** — if escalation is because the first response was slow or wrong, say so briefly
+- **Don't use "escalated" in the subject** — it alarms customers; use "our specialist team is on this"
 - **Include what the new owner already knows** — "{{new_owner}} has your full history" removes the dread of repeating themselves
-- **If a vendor is involved**, name the vendor — "We've looped in Stripe's billing team" is more reassuring than "a third party"
+- **If a vendor is involved, name them** — "We've looped in Stripe's billing team" is more reassuring than "a third party"
 
 ## Common Mistakes
 
-- Generic "your ticket has been escalated" with no context
-- Customer has to repeat the problem to the new agent
-- No updated timeline after the handoff
-- Escalation email from a no-reply address — kills the personal feel
+- Generic "your ticket has been escalated"; customer has to repeat the problem; no updated timeline; escalation from a no-reply address
+
+## Metrics to Track
+
+Time-to-resolution after escalation; CSAT score post-escalation; ticket reopen rate.
 
 ## Typical Structure
 
@@ -44,7 +45,7 @@ Why: {{brief_reason — e.g. "this involves a backend configuration only they ca
 
 Updated timeline: {{new_eta}}
 
-Questions in the meantime? Reply here or email {{new_owner_email}} directly.
+Questions in the meantime? Reply to this email.
 
 — {{original_agent_name}}, {{team_name}} Support
 ```

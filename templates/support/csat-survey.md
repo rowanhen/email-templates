@@ -14,7 +14,7 @@ Customer satisfaction survey sent after a support interaction. Short, fast, and 
 - **Optional comment field** — only after they've rated; don't front-load it
 - **No survey fatigue** — one email, not a sequence
 
-## Non-Obvious Patterns
+## Best Practices
 
 - **Embed the rating as clickable links in the email** — each emoji/number links to a URL with a pre-set score. No login required, no form to open.
 - **3-point scale outperforms 5-point for support** — Dissatisfied / Neutral / Satisfied gives cleaner signal
@@ -27,6 +27,10 @@ Customer satisfaction survey sent after a support interaction. Short, fast, and 
 - Long survey forms with demographics questions
 - Not acting on negative scores — surveys become pointless
 - Asking for a review in the same email as the CSAT (different goals, different timing)
+
+## Metrics to Track
+
+Response rate; score distribution (% dissatisfied / neutral / satisfied); low-score follow-up rate.
 
 ## Typical Structure
 

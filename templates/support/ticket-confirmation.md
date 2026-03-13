@@ -15,7 +15,7 @@ Auto-reply sent immediately when a support ticket is created. The job is to conf
 - **Self-serve escape hatch** — link knowledge base or FAQ before a human is needed
 - **Reply instructions** — make clear they can reply to this email to update the ticket
 
-## Non-Obvious Patterns
+## Best Practices
 
 - Include the **original message summary** in the confirmation — customers forget exactly what they sent
 - Use **business hours**, not calendar hours, for response estimates to avoid weekend disappointment
@@ -28,6 +28,10 @@ Auto-reply sent immediately when a support ticket is created. The job is to conf
 - No ticket ID in the subject line — makes threading impossible
 - Confirmation that reads like marketing copy
 - Not mentioning what the customer should do if it's urgent
+
+## Metrics to Track
+
+First-reply SLA compliance rate; "any update?" follow-up rate; portal view rate.
 
 ## Typical Structure
 

@@ -16,20 +16,21 @@ A genuine appreciation email — after a purchase, a milestone, a referral, or s
 - **Human sender** — founder or account owner, not a role address
 - **Short** — a thank you that goes on too long starts to feel like a pitch
 
-## Non-Obvious Patterns
+## Best Practices
 
 - **Name the specific action** — "Thank you for referring {{referral_name}}" > "Thanks for your referral"
-- **Reflect back their impact** — "Because of customers like you, we've been able to {{company milestone or product improvement}}" — connects their loyalty to something real
-- **A handwritten note or surprise upgrade beats any email** — use this template for scale, but consider physical mail for your top 10 customers
-- **Don't ask for anything in a thank-you email** — not a review, not a referral, not a call. The moment you add an ask, it becomes a marketing email.
-- **Long-tenure thank yous should acknowledge the journey** — "You've been with us since {{join_date}}" signals you actually know who they are
+- **Reflect back their impact** — "Because of customers like you, we've been able to {{milestone}}"
+- **A handwritten note beats any email** — use this for scale, but consider physical mail for top accounts
+- **Don't ask for anything** — not a review, referral, or call; the moment you add an ask, it becomes marketing
+- **Long-tenure notes should acknowledge the journey** — "You've been with us since {{join_date}}"
 
 ## Common Mistakes
 
-- Thanking them and immediately promoting a product
-- Generic "thank you for your loyalty" with no specifics
-- Automated thank-you that reads like one
-- Using "we" language that sounds corporate ("we are grateful") instead of personal ("I'm really grateful")
+- Thanking then immediately promoting; generic "thank you for your loyalty"; automated tone; "we are grateful" corporate-speak instead of "I'm really grateful"
+
+## Metrics to Track
+
+Reply rate; churn rate at 90 days post-send; referral rate in the following quarter.
 
 ## Typical Structure
 
@@ -40,7 +41,7 @@ Hi {{name}},
 
 I wanted to personally say thank you for {{specific action — referral, purchase, milestone}}.
 
-{{One sentence on why it matters — to you, the team, or their peers.}}
+{{One sentence on why it matters — to you or the team.}}
 
 {{Optional: What it means for them — "You've now been with us for X" or "Your referral just signed up."}}
 
