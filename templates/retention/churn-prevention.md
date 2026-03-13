@@ -21,7 +21,7 @@ Triggered by inactivity or cancellation signals before a user actually leaves. T
 - Personalise with actual usage data — "your last session was 14 days ago" beats vague language
 - Offer a call, not just a link — high-value accounts deserve a real conversation
 - Don't mention cancellation if they haven't tried to cancel yet — you'll plant the idea
-- Segment: power users who've gone quiet vs. users who never activated are different problems
+- Send from a transactional/direct address — these emails should bypass marketing unsubscribe lists
 
 ## Common Mistakes
 
@@ -43,7 +43,8 @@ check in and make sure everything's working for you.
 Sometimes it's a feature that's not clicking, sometimes it's
 just been a busy period. Either way, happy to help.
 
-[CTA: "Resume where you left off →" or "Book a quick call"]
+[CTA — pick one: "Resume where you left off →" (self-serve/low-touch)
+or "Book a quick call" (high-value or at-risk accounts)]
 
 If something's not working, just reply and let me know — I read
 these personally.

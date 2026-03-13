@@ -4,37 +4,27 @@ Asking users for NPS scores, product feedback, or public reviews. The best feedb
 
 ## When to Send
 
-- **NPS:** 30–60 days after signup (enough time to form an opinion); quarterly for existing users
-- **Review request:** After a positive interaction — successful support ticket, milestone, renewal
-- **Product feedback:** After a user has tried a specific feature you want to learn about
+- **NPS:** 30–60 days after signup; quarterly for existing users
+- **Review request:** After a positive interaction (milestone, renewal, resolved ticket)
+- **Product feedback:** After a user has tried a specific feature
 - Never send immediately after a known bad experience
-
-## Key Elements
-
-- **Single question** — NPS surveys work because they ask one thing; apply the same logic to email
-- **Low time commitment** — "2 minutes" or "one question" language reduces friction
-- **Personal sender** — from a founder, PM, or CSM — not "The [Product] Team"
-- **Explain the why** — "we're deciding what to build next" is honest and motivating
 
 ## Best Practices
 
-- For NPS: link directly to the score selection, don't make them navigate to it
-- For reviews: link directly to your G2/Capterra/AppStore page
-- Follow up on detractors (NPS 0–6) personally — these are your most valuable signals
-- Keep the email under 100 words — the value is in the response, not the ask
-- Time NPS sends to avoid high-stress periods for your customers
+- Single question only — apply NPS logic to all feedback asks
+- Personal sender — founder, PM, or CSM; not "The [Product] Team"
+- Under 100 words — the value is in the response, not the ask
+- Follow up on detractors (NPS 0–6) personally — most valuable signal
 
 ## Common Mistakes
 
-- Asking for feedback immediately after a bad experience (support ticket still open)
-- Too many questions — "while we have you, could you also fill out..."
-- Incentivising reviews on platforms that prohibit it (Google, G2)
+- Too many questions in one email
+- Incentivising reviews without disclosure — Google prohibits incentives entirely; G2 allows them with proper disclosure
 - Not following up on feedback received — makes users feel unheard
 - Sending NPS to churned users with the same email as active users
 
-## Typical Structure
+## Typical Structure (NPS)
 
-**NPS:**
 ```
 Subject: Quick question, [Name]
 
@@ -44,47 +34,17 @@ One question: how likely are you to recommend [Product] to a
 colleague? (0 = not at all, 10 = definitely)
 
 [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10]
+↑ Each number should link to a unique tracked URL, not static text.
 
 Takes 10 seconds. I read every response personally.
 
 [Founder/PM name]
 ```
 
-**Product feedback:**
-```
-Subject: 2 minutes? Building [Feature] and want your take
-
-Hi [Name],
-
-We're working on [feature/improvement] and you're one of the
-people who'd use it most.
-
-One question: [specific question about their experience or need]
-
-Just reply to this email — no form, no survey.
-
-[Name], [Role]
-```
-
-**Review request:**
-```
-Subject: Would you mind leaving us a review?
-
-Hi [Name],
-
-Really glad [recent positive outcome] worked out. If you've got
-2 minutes, an honest review on [G2/Capterra] would mean a lot —
-it helps other teams like yours find us.
-
-[Direct link to review page]
-
-No pressure either way.
-
-[Name]
-```
+**Variants:** For product feedback, ask one specific question and invite a reply (no form). For review requests, link directly to your G2/Capterra page after a positive interaction.
 
 ## Metrics to Track
 
-- **NPS score** — track over time; segment by cohort, plan, and feature usage
-- **Response rate** — benchmark: 10–30% for email NPS; higher for in-app
+- **NPS score** — track over time; segment by cohort, plan, and usage
+- **Response rate** — benchmark: 10–30% for email NPS
 - **Detractor follow-up conversion** — how many detractors become passives/promoters
