@@ -1,0 +1,48 @@
+{
+  "name": "@leitware/email-templates",
+  "version": "0.1.0",
+  "description": "A composable directory of business email templates, best practices, and guides",
+  "type": "module",
+  "bin": {
+    "email-templates": "dist/cli.js"
+  },
+  "files": [
+    "dist",
+    "templates"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "dev": "bun run src/cli.ts",
+    "test": "bun test",
+    "prepare": "git config core.hooksPath .githooks"
+  },
+  "dependencies": {
+    "@clack/prompts": "^0.9.0",
+    "commander": "^12.1.0",
+    "picocolors": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^22.0.0",
+    "typescript": "^5.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rowanhen/email-templates.git"
+  },
+  "keywords": [
+    "email",
+    "templates",
+    "best-practices",
+    "marketing",
+    "transactional",
+    "cli"
+  ]
+}
