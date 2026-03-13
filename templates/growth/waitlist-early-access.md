@@ -26,13 +26,11 @@ Pre-launch engagement: confirms waitlist signup, grants access, and handles beta
 
 - No confirmation email (users assume their signup was lost)
 - Vague timeline ("coming soon") — give a range if you can
-- Access granted email that's flat and transactional — this is your product's first impression
-- Forgetting to suppress waitlist emails once access is granted
+- Access granted email that's flat and transactional — this is the product's first impression
 
 ## Compliance
 
-- Waitlist signup = consent to receive waitlist-related emails only, not marketing. Keep a clear legal basis (GDPR Art. 6(1)(a) or (b)) and include an unsubscribe option in every email.
-- If using a referral-to-move-up mechanic, ensure ePrivacy compliance for communications sent to referred contacts.
+- Waitlist signup = consent for waitlist emails only, not marketing. Maintain clear legal basis (GDPR Art. 6(1)(a) or (b)) and include unsubscribe in every email. If using referral-to-move-up, ensure ePrivacy compliance for referred contacts.
 
 ## Typical Structure
 

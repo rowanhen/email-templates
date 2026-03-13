@@ -7,7 +7,7 @@ Holiday and promotional campaigns tied to calendar moments — Black Friday, end
 - **Black Friday/Cyber Monday:** Teaser (Mon), launch (Thurs/Fri), extension (Mon)
 - **End-of-year:** Last week of December — "use it or lose it" budget hooks
 - **New Year:** First 2 weeks of January — planning, goals, fresh-start framing
-- **General rule:** Prepare creative 4 weeks out; segment 2 weeks out; send on time
+- **General:** Prepare creative 4 weeks out; segment 2 weeks out
 
 ## Key Elements
 
@@ -30,7 +30,7 @@ Holiday and promotional campaigns tied to calendar moments — Black Friday, end
 - Fake urgency (countdown that resets) — destroys trust permanently
 - Too many emails in the sequence — 3 max per campaign window
 - No mobile optimisation — 60%+ of seasonal opens are on mobile
-- Ignoring pricing display rules — EU Omnibus Directive requires showing the prior 30-day lowest price alongside discounts; UK Consumer Protection from Unfair Trading Regulations have similar requirements
+- Ignoring EU Omnibus Directive (prior 30-day lowest price required) / UK Consumer Protection pricing rules
 
 ## Typical Structure
 

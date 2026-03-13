@@ -6,8 +6,7 @@ Coordinated multi-email campaign: teaser, launch day, and last-chance. Different
 
 - **Teaser (T-7):** One week before — build anticipation
 - **Launch day:** The moment it goes live — main conversion push
-- **Last chance (T+3 to T+5):** Final push with real urgency
-- **Suppress last-chance** for users who already converted after launch email
+- **Last chance (T+3 to T+5):** Final push with real urgency; suppress for users who already converted
 
 ## Key Elements
 
@@ -28,7 +27,7 @@ Coordinated multi-email campaign: teaser, launch day, and last-chance. Different
 - Launch email that's too long — cut it in half
 - No suppression logic — customers getting "buy now" for what they already have
 - Last-chance email with no real deadline (fake urgency destroys trust)
-- Teaser subject that's pure mystery with no benefit hint — tease the outcome, not just "something's coming"
+- Pure-mystery teaser with no benefit hint — tease the outcome, not just "something's coming"
 
 ## Typical Structure
 

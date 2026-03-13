@@ -7,14 +7,14 @@ Full webinar lifecycle: invite, reminders, and post-event follow-up with replay.
 - **Invite:** 7–14 days before the event
 - **24h reminder:** Day before — logistics and re-engagement
 - **1h reminder:** 60 minutes before — join link only, no fluff
-- **Follow-up:** Within 24h post-event — replay link + topic-relevant CTA
+- **Follow-up:** Within 24h post-event — replay + CTA
 
 ## Key Elements
 
 - **Invite:** Topic, speaker (name + title), date/time with timezone, registration CTA
-- **24h reminder:** Logistics recap, "add to calendar" link
-- **1h reminder:** Join link front and centre — nothing else matters
-- **Follow-up:** Replay link, slides, CTA tied to webinar topic (not generic)
+- **24h reminder:** Logistics recap, calendar link
+- **1h reminder:** Join link front and centre — nothing else
+- **Follow-up:** Replay link, slides, topic-relevant CTA
 
 ## Best Practices
 
