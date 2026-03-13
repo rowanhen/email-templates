@@ -1,6 +1,8 @@
 # Cart Abandonment
 
-Recovery email for users who added items to cart but didn't complete checkout. Timing and sequence structure matter more than the copy.
+Recovery email for users who added items to cart but didn't complete checkout. Timing and sequence structure matter more than copy.
+
+> **Compliance note (GDPR/PECR):** Cart abandonment emails require a prior soft opt-in — e.g. the customer entered their email at checkout with clear notice that you may follow up. Do not email guest users without this lawful basis.
 
 ## When to Send
 
@@ -12,47 +14,47 @@ Recovery email for users who added items to cart but didn't complete checkout. T
 ## Key Elements
 
 - **Show the cart contents** — name, image, price; don't make them remember
-- **One-click return link** — should restore the cart, not redirect to homepage
-- **Urgency (only if real)** — low stock is credible; fake countdowns destroy trust
-- **PECR/ePrivacy compliance** — cart abandonment emails require prior marketing consent; soft opt-in at checkout ("tick to get reminders about your basket") is a common compliant approach
+- **One-click restore link** — should restore the cart, not redirect to homepage
+- **Urgency (only if real)** — fake countdowns destroy trust
 
 ## Best Practices
 
 - **Email 1 should not discount** — it trains customers to abandon on purpose to get a deal
-- **Personalise by cart value** — high-value abandons deserve a fuller sequence; low-value ones may stop at 2 emails
-- **If guest checkout is available, say so** — "No account needed" in the subject lifts checkout starts
-- **Check mobile checkout first** — recovery emails won't fix a broken mobile UX
+- **Personalise by cart value** — high-value abandons deserve a more concerted sequence
+- **"No account needed"** in the subject line lifts checkout starts for first-time buyers
 
 ## Common Mistakes
 
-- Sending all three emails within 24 hours; using fake urgency; cart link that lands on homepage; discounting too early
+- Sending all three emails within 24 hours (too aggressive)
+- Fake urgency ("Only 2 left!" when you have 500)
+- Cart restore link that drops them at homepage instead of prefilled cart
 
 ## Metrics to Track
 
-Recovery rate per email; revenue recovered; email-to-purchase conversion by sequence step.
+- Recovery rate per email in the sequence
+- Revenue recovered per email sent
+- Unsubscribe rate (signals overly aggressive sequencing)
 
 ## Typical Structure
 
 ```
-Subject (Email 1): You left something behind
+Email 1 — Subject: You left something behind
 
-Hi {{name}},
-
-You left {{item_name}} (and {{n}} other items) in your cart:
+Hi {{name}}, you left {{item_name}} (and {{n}} other items) in your cart.
 
 {{cart_item_list with images and prices}}
 
 Your cart: {{restore_cart_link}}
 
 ---
+Email 2 — Subject: Still thinking it over?
 
-Subject (Email 2): Still interested in {{item_name}}?
-
-{{Social proof or genuine low-stock signal.}} {{restore_cart_link}}
+{{item_name}} is popular — {{social_proof or stock_count}}.
+Your cart is saved: {{restore_cart_link}}
 
 ---
+Email 3 — Subject: Here's {{discount}}% off to finish your order
 
-Subject (Email 3): Here's {{discount}}% off to finish your order
-
-Use code {{code}} at checkout — expires in 48 hours. {{restore_cart_link}}
+Use code {{code}} at checkout — expires in 48 hours.
+{{restore_cart_link}}
 ```

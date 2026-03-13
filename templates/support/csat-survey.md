@@ -16,7 +16,7 @@ Customer satisfaction survey sent after a support interaction. Short, fast, and 
 
 ## Best Practices
 
-- **Embed the rating as clickable links in the email** — each emoji/number links to a URL with a pre-set score. No login required, no form to open.
+- **Embed the rating as clickable links** — each emoji/number links to a URL with a pre-set score; no login required, no form to open
 - **3-point scale outperforms 5-point for support** — Dissatisfied / Neutral / Satisfied gives cleaner signal
 - **Route low scores immediately** — a 1/5 should auto-create a follow-up task or alert a manager
 - **Include ticket context** — customers forget which interaction you're asking about within hours
@@ -30,7 +30,9 @@ Customer satisfaction survey sent after a support interaction. Short, fast, and 
 
 ## Metrics to Track
 
-Response rate; score distribution (% dissatisfied / neutral / satisfied); low-score follow-up rate.
+- Survey response rate
+- Average CSAT score over time
+- % of low scores followed up within 24 hours
 
 ## Typical Structure
 
@@ -42,13 +44,11 @@ Hi {{name}},
 How did {{agent_name}} do on your recent request?
 (Re: {{short_topic}})
 
-Rate in one click:
-
 😞 Not great  |  😐 It was okay  |  😊 Great
 
 [Each emoji links to: {{survey_url}}?score=1/2/3&ticket={{id}}]
 
-Want to add anything? Reply to this email or leave a note here: {{comment_url}}
+Want to add anything? {{comment_url}}
 
 — {{team_name}}
 ```

@@ -1,11 +1,11 @@
 # Review Request
 
-Asking customers to leave a public review on G2, Trustpilot, Google, or similar. The window is narrow and the ask needs to be friction-free.
+Asking customers to leave a public review on G2, Trustpilot, Google, or similar. Send all customers directly to the review platform — pre-filtering by sentiment before the platform link is prohibited by Google, Trustpilot, and the FTC.
 
 ## When to Send
 
-- Within 24 hours of a positive CSAT response
-- After a renewal, upgrade, or stated satisfaction signal
+- After onboarding completes or a key milestone is reached
+- After a renewal or upgrade
 - Never to customers with open support tickets or recent complaints
 
 ## Key Elements
@@ -17,19 +17,23 @@ Asking customers to leave a public review on G2, Trustpilot, Google, or similar.
 
 ## Best Practices
 
-- **Send all customers to the review platform** — pre-screening by sentiment before directing to the review platform is prohibited by Google, Trustpilot, and FTC deceptive endorsement guidance; every customer should get the same direct link
-- **Choose platform by segment** — B2B SaaS → G2/Capterra; local/service → Google; consumer → Trustpilot
-- **Include a suggested structure** — customers freeze at blank boxes; prompt with: "What was your situation before? What changed?"
-- **Send from a person** — "Sarah" gets more responses than "The [Company] Team"
-- **Midweek morning** (Tue–Thu, 9–11am) consistently outperforms for review requests
+- **Choose platform by customer segment**: B2B SaaS → G2 or Capterra; local/service → Google; consumer → Trustpilot
+- **Include a suggested structure** — customers freeze at blank review boxes; prompt with: "What was your situation before? What changed?" — produces better reviews
+- **Send from a person** — a review request from "Sarah" gets more responses than from "The [Company] Team"
+- **Midweek morning** (Tuesday–Thursday, 9–11am) consistently outperforms for review requests
 
 ## Common Mistakes
 
-- Routing unhappy customers away from the review platform (deceptive endorsement — see Best Practices); linking to the main profile page; incentivising reviews where prohibited; sending more than once
+- **Pre-filtering by sentiment before sending to the platform** — routing low-scorers away from the review link is prohibited by Google, Trustpilot, and the FTC; all customers must be sent to the platform directly
+- Linking to the main profile page instead of the review form (adds steps; kills conversion)
+- Incentivising reviews on platforms that prohibit it (violates ToS)
+- Sending multiple review requests — once is enough
 
 ## Metrics to Track
 
-Review submission rate; average platform rating; email open rate by send-time.
+- Review submission rate
+- Average star rating over time
+- Reply rate to the request email
 
 ## Typical Structure
 
@@ -38,9 +42,9 @@ Subject: Would you mind sharing your experience?
 
 Hi {{name}},
 
-I'm so glad to hear {{outcome_or_positive_signal}}.
+Thanks for being a {{product}} customer — we'd love to hear your honest thoughts.
 
-If you have 2 minutes, an honest review would mean a lot — it helps other {{customer_type}} decide if {{product}} is right for them.
+If you have 2 minutes, a review would mean a lot — it helps other {{customer_type}} decide if {{product}} is right for them.
 
 Leave a review: {{direct_review_link}}
 
@@ -50,5 +54,5 @@ Not sure what to write? Try:
 
 Totally optional — but genuinely appreciated.
 
-— {{name}}
+— {{sender_name}}
 ```

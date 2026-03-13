@@ -15,18 +15,23 @@ Notification that a support issue has been closed. Goal: confirm resolution, giv
 
 ## Best Practices
 
-- **Don't auto-close without warning** — send a "closing in 48h" warning first; this email is for confirmed closes only
+- **Don't auto-close without warning** — if you auto-close after inactivity, send a "closing in 48h" warning first; this email covers that too
 - **Reference the fix, not the ticket** — "We've updated your billing cycle" beats "Your ticket has been resolved"
 - **Reopen CTA should be frictionless** — one click or a reply, never a new ticket form
-- **For auto-closed tickets**, acknowledge the silence: "We haven't heard back, so we're closing this — reply to reopen anytime"
+- For **auto-closed tickets**, acknowledge the silence: "We haven't heard back, so we're closing this — reply to reopen anytime"
 
 ## Common Mistakes
 
-- Generic "your ticket is closed" with no context; no reopen path; including CSAT in this email (send separately — give them a moment first); closing prematurely to clear queue
+- Generic "your ticket is closed" with no context
+- No reopen path (forces customers to create a new ticket and repeat themselves)
+- Sending CSAT in the same email — send it separately, 30–60 minutes later
+- Closing tickets prematurely to clear queue
 
 ## Metrics to Track
 
-CSAT score (from follow-on survey); reopen rate; median resolution time.
+- Reopen rate (high rate signals tickets closed prematurely)
+- CSAT score from follow-up survey
+- Time-to-close from ticket creation
 
 ## Typical Structure
 

@@ -10,24 +10,29 @@ For users who signed up for a free trial but never activated — didn't log in, 
 
 ## Key Elements
 
-- **Activation step, not features** — tell them the one thing to do to see value
+- **Activation step**, not product features — tell them the one thing they need to do to see value
 - **Blocker framing** — ask if something stopped them, not why they haven't used it
-- **Low-friction reentry** — one-click magic link login, not "visit our site"
+- **Low-friction reentry** — one-click login link, not "visit our site"
 - **Day 7 should offer a human** — a call or live walkthrough, especially for B2B
 
 ## Best Practices
 
-- **Define your activation event first** — "first login" is not activation; it's the moment they see value (first report, first integration, first project created)
+- **Define your activation event first** — "first login" is not activation; it's the moment users see value (first report, first integration, first project created)
 - **Email 2 should be a question, not a pitch** — "Did something get in the way?" generates replies that diagnose onboarding failures
-- **Magic link security** — use single-use tokens with a short TTL (15–60 minutes); invalidate on click and on new token generation to prevent replay attacks
+- **Magic links lift activation** — one-click login removes credential friction; magic links must be single-use and expire within 1–4 hours to prevent account takeover
 
 ## Common Mistakes
 
-- Sending feature announcements instead of an activation nudge; asking for a call on Day 1; no magic link in the recovery email
+- Sending feature announcements instead of an activation nudge
+- Asking for a call on Day 1 — too pushy; save it for Day 7
+- No magic link — friction in a recovery email defeats the purpose
+- Long-lived or reusable magic links — always set a short TTL and invalidate on use
 
 ## Metrics to Track
 
-Activation rate after email; Day 7 conversion; reply rate to the Day 3 question.
+- Activation rate per email (Day 1 / Day 3 / Day 7)
+- Reply rate to Day 3 question email (diagnostic signal for onboarding failures)
+- Trial-to-paid conversion rate for recovered vs. unrecovered users
 
 ## Typical Structure
 
@@ -36,19 +41,18 @@ Subject (Day 1): Your {{product}} trial is set up — here's where to start
 
 Hi {{name}},
 
-You're signed up but haven't logged in — your trial clock is running.
+You're signed up but haven't logged in yet — your trial clock is running.
 
 The fastest way to see what {{product}} does:
 → {{activation_action, e.g. "Connect your first data source"}}
 
-Log in now: {{magic_link}}  (link expires in 60 minutes)
+Log in now (link expires in 4 hours): {{magic_link}}
 
-After that, {{value_statement}}.
+Takes about 5 minutes. After that, {{value_statement}}.
 
 ---
 Subject (Day 3): Did something get in the way?
-You signed up but haven't logged in — is something blocking you?
-[Yes, I had a question →]  [No, I'll jump in now →]
+You signed up but haven't logged in. [Yes, I had a question →] [No, I'll jump in now →]
 
 ---
 Subject (Day 7): Want a quick walkthrough?

@@ -17,10 +17,10 @@ Auto-reply sent immediately when a support ticket is created. The job is to conf
 
 ## Best Practices
 
-- Include the **original message summary** in the confirmation — customers forget exactly what they sent
-- Use **business hours**, not calendar hours, for response estimates to avoid weekend disappointment
+- Include the **original message summary** — customers forget exactly what they sent
+- Use **business hours**, not calendar hours, to avoid weekend disappointment
 - A **ticket URL** (view-in-portal link) dramatically reduces "any update?" follow-ups
-- If ticket volume is high, consider a **queue position indicator** — transparency builds patience
+- If volume is high, consider a **queue position indicator** — transparency builds patience
 
 ## Common Mistakes
 
@@ -31,7 +31,9 @@ Auto-reply sent immediately when a support ticket is created. The job is to conf
 
 ## Metrics to Track
 
-First-reply SLA compliance rate; "any update?" follow-up rate; portal view rate.
+- Follow-up rate before first agent response (high rate = confirmation not reassuring enough)
+- Time to first agent reply vs. stated SLA
+- Self-serve deflection rate from knowledge base link
 
 ## Typical Structure
 

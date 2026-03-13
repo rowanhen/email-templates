@@ -17,18 +17,22 @@ A periodic touchpoint with existing customers. Not sales, not support — purely
 
 ## Best Practices
 
-- **Send from a human, not a role address** — "from Sarah at Acme" outperforms "from Acme Support"
-- **Reference their industry or use case** — "how's Q1 going?" beats "are you using our new dashboard?"
-- **Low-activity variant** — acknowledge the gap honestly; don't pretend they've been active
+- **Send from a human** — "from Sarah at Acme" outperforms "from Acme Support"
+- **Reference their use case**, not product features — "how's Q1 going?" beats "are you using our new dashboard?"
+- **Low-activity customers need a different tone** — acknowledge the gap; don't pretend they've been active (see variant below)
 - **The best check-ins feel like texts** — informal, brief, human
 
 ## Common Mistakes
 
-- Disguising a sales email as a check-in; mail-merge errors (wrong name/product); burying the reply path; asking three questions instead of one
+- Disguising a sales email as a check-in (customers see through it immediately)
+- Mail-merge tells at scale (wrong name, wrong product feature)
+- Asking three questions instead of one
 
 ## Metrics to Track
 
-Reply rate; churn rate for recipients vs. non-recipients; support tickets raised within 30 days.
+- Reply rate (primary success signal for check-ins)
+- Conversion to call or meeting
+- Churn rate difference between checked-in and non-checked-in cohorts
 
 ## Typical Structure
 
@@ -39,18 +43,16 @@ Hi {{name}},
 
 Just wanted to check in — how are things going with {{product_or_use_case}}?
 
-[Optional: We noticed {{light personalisation}} — hope it's been useful.]
-
 Is there anything you've been stuck on, or anything we could do better?
-
-Happy to hop on a call if easier.
 
 — {{csm_or_founder_name}}
 
 ---
-Low-activity variant subject: Checking in — everything okay?
+Low-activity variant:
 
-Hi {{name}}, things have been quiet — is anything blocking you, or anything we could do better? No pressure, but we're here.
+Subject: Everything okay with {{product}}?
 
-— {{csm_or_founder_name}}
+Hi {{name}}, we noticed things have been quiet on your account — just wanted to check in.
+Is anything blocking you, or has your focus shifted?
+Happy to help or just hear how things are going. — {{csm_or_founder_name}}
 ```
