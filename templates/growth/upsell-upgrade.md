@@ -33,15 +33,14 @@ Proactively prompts users to upgrade based on usage signals — before they hit 
 ## Typical Structure
 
 ```
-Subject: You're 80% through your [plan] limit, [Name]
+Subject: Unlock unlimited [resource], [Name]
 
 Hi [Name],
 
-Quick heads up — you've used [X of Y] [resource] on your [Plan] plan.
+You've used [X of Y] [resource] this month — you're getting real value
+from your [Plan] plan.
 
-At this rate, you'll hit the limit in ~[N days].
-
-Upgrade to [Pro/Business] and get:
+Ready for more? [Pro/Business] gives you:
 - Unlimited [resource]
 - [Benefit 2]
 - [Benefit 3]

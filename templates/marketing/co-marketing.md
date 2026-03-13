@@ -34,7 +34,7 @@ Joint email campaigns with a partner or integration — both brands, shared audi
 ## Typical Structure
 
 ```
-Subject: [Your Product] + [Partner Product] — now better together
+Subject: [Your Product] + [Partner Product] — [specific joint benefit]
 
 Hi [Name],
 

@@ -21,8 +21,6 @@ Usage-based feature suggestions that help active users discover untapped value. 
 - Base recommendations on actual user behaviour, not generic "popular features"
 - Cap at 3 recommendations — more creates decision paralysis
 - Deep-link directly to the feature or setup flow
-- A/B test subject lines: "3 features you haven't tried" vs. "Based on your usage..."
-
 ## Common Mistakes
 
 - Recommending features they already use

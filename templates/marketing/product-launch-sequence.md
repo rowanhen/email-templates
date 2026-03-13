@@ -1,68 +1,62 @@
 # Product Launch Sequence
 
-A coordinated multi-email campaign around a launch: teaser, launch day, and last-chance FOMO. Different from a single product announcement — this is a sequence built to maximise awareness and conversion.
+Coordinated multi-email campaign: teaser, launch day, and last-chance. Different from a single product announcement — this is a sequence to maximise awareness and conversion.
 
 ## When to Send
 
-- **Teaser (T-7):** One week before launch — build anticipation, collect early interest
+- **Teaser (T-7):** One week before — build anticipation
 - **Launch day:** The moment it goes live — main conversion push
-- **Last chance (T+3 to T+5):** Final push with urgency (deadline, limited offer, or feature recap)
+- **Last chance (T+3 to T+5):** Final push with real urgency
 - **Suppress last-chance** for users who already converted after launch email
 
 ## Key Elements
 
-- **Teaser:** Mystery + hint at the benefit; invite people to be first to know
+- **Teaser:** Hint at the benefit without full reveal; invite early interest
 - **Launch day:** Full reveal, strongest CTA, social proof if available
-- **Last chance:** Urgency driver — deadline, limited availability, or "in case you missed it"
+- **Last chance:** Real deadline, recap of core benefit, final push
 
 ## Best Practices
 
 - Segment: existing customers get a different angle than prospects
 - Coordinate with in-app banners, social, and PR on launch day
-- Last-chance email often outperforms launch day email — don't skip it
-- Subject line A/B test the launch email; it's worth the split
+- Last-chance email often outperforms launch day — don't skip it
+- A/B test the launch email subject line; it's worth the effort
 
 ## Common Mistakes
 
-- Teaser that reveals too much (kills the reveal)
+- Teaser that reveals everything (kills the reveal moment)
 - Launch email that's too long — cut it in half
-- No suppression logic — customers getting "buy now" for something they already have
+- No suppression logic — customers getting "buy now" for what they already have
 - Last-chance email with no real deadline (fake urgency destroys trust)
+- Teaser subject that's pure mystery with no benefit hint — tease the outcome, not just "something's coming"
 
 ## Typical Structure
 
 ```
--- TEASER (T-7) --
-Subject: Something's coming [date] — be the first to know
+-- TEASER --
+Subject: A faster way to [outcome] — coming [date]
 
-Hi [Name], we're launching something on [date] that [teaser benefit].
-[CTA: "Get notified first →" or "Add to calendar"]
+Hi [Name], we're launching something on [date] that [benefit hint].
+[CTA: "Get notified first →"]
 
 -- LAUNCH DAY --
-Subject: It's here: [Product Name]
+Subject: It's here: [Product Name] — [one-line benefit]
 
-[Product] is live. [One-line value prop].
-
-[What it does — 3 bullets max]
-[Social proof if available: "X people signed up in the first hour"]
-
-[CTA: "Try it free →" or "Get started →"]
+[Product] is live. [3 bullets max on what it does]
+[Social proof: "X people signed up in the first hour"]
+[CTA: "Try it free →"]
 
 -- LAST CHANCE --
-Subject: Last chance — [Product] offer ends [date/time]
+Subject: [Product] offer ends [date] — last chance
 
-[Name], [Product] launched [X days ago] and [social proof/stat].
-
-If you haven't had a chance to look:
-[1-sentence recap of the core benefit]
-
-[Urgency hook: offer expires / price goes up / limited spots]
+[1-sentence recap of core benefit]
+[Urgency: offer expires / price increases]
 [CTA: "Get in before [deadline] →"]
 ```
 
 ## Metrics to Track
 
-- **Open rate lift** — teaser vs. launch vs. last-chance (track sequence performance)
-- **Conversion rate per email** — which email in the sequence drives the most signups
-- **Revenue attributed** — total launch window revenue by sequence touchpoint
+- **Open rate per email** — track performance across the sequence
+- **Conversion rate per email** — which email drives the most signups
+- **Revenue attributed** — total launch window revenue by touchpoint
 - **Unsubscribe rate** — monitor for fatigue across the 3 emails

@@ -30,6 +30,7 @@ Holiday and promotional campaigns tied to calendar moments — Black Friday, end
 - Fake urgency (countdown that resets) — destroys trust permanently
 - Too many emails in the sequence — 3 max per campaign window
 - No mobile optimisation — 60%+ of seasonal opens are on mobile
+- Ignoring pricing display rules — EU Omnibus Directive requires showing the prior 30-day lowest price alongside discounts; UK Consumer Protection from Unfair Trading Regulations have similar requirements
 
 ## Typical Structure
 

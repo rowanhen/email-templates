@@ -33,13 +33,13 @@ Recommends adjacent products, add-ons, or features to existing customers based o
 ## Typical Structure
 
 ```
-Subject: [Name], you might love [Product B]
+Subject: [Name], [Feature B] pairs well with [Feature A]
 
 Hi [Name],
 
 You've been getting a lot out of [Feature A] — nice work.
 
-A lot of [Feature A] users also turn on [Feature B] around this point.
+[X]% of [Feature A] users also turn on [Feature B] around this point.
 It [does X], which means [benefit tied to what they're already doing].
 
 [Customer name] started using it and [specific result].
