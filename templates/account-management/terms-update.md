@@ -27,7 +27,7 @@ Notification of material changes to Terms of Service, Privacy Policy, or both.
 - If introducing third-party data sharing: explicit opt-in likely required under GDPR
 - COPPA: changes affecting under-13s require parental notification
 - CCPA: material privacy changes require notice at or before point of collection
-- CAN-SPAM / CASL: even transactional emails require unsubscribe compliance
+- GDPR: passive acceptance ("continued use = acceptance") may be insufficient for material data-processing changes — seek legal review before relying on it
 
 ## Typical Structure
 

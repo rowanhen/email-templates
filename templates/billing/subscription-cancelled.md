@@ -47,7 +47,7 @@ Changed your mind? Reactivate anytime: [reactivation link]
 
 One quick question — why did you leave? (10 seconds): [survey link]
 
-Thanks for being a customer.
+It's been a pleasure having you — thank you for being part of [Company].
 [Name], [Company]
 ```
 

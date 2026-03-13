@@ -17,10 +17,11 @@ Sent when a user requests a password reset. Security-critical: tone and construc
 
 ## Best Practices
 
-- Send from a no-reply alias here — this is one case where it's acceptable (reduces phishing surface)
+- Send from a monitored security@ alias — CISA recommends against no-reply for security emails; a real address builds trust and lets users report phishing
 - Subject line should be plain and functional — avoid anything that looks like phishing bait
 - Do not include the reset token in plain text — link only
 - Keep the email under 100 words; everything else is distraction
+- Account enumeration: send the same response whether or not the address exists — never confirm or deny
 - Expire the link immediately on use, not just on time
 
 ## Security / Compliance Notes
@@ -44,8 +45,6 @@ We received a request to reset your [Product] password.
 If you didn't request this, you can ignore this email — your
 password won't change. If you're concerned about unauthorised
 access, contact us: [security email]
-
-For security, this link is single-use and expires at [time].
 
 [Company] Security
 ```

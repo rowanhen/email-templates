@@ -16,10 +16,10 @@ Sent when a free trial is ending soon. Goal: convert to paid before access lapse
 
 ## Best Practices
 
-- The 3-day email converts better than the day-before one — lead with it
+- The 3-day email converts better than the day-before one — send it first; if you can only send one, send this one
 - If card on file: clearly state they'll be charged on [date] and link to cancel
 - Don't use trial expiry as a surprise cancellation — users should know exactly what happens
-- Offer a short extension for engaged users who haven't converted (feature-gate)
+- Offer a short extension for engaged users who haven't converted (control eligibility with a feature flag — don't show it to all users)
 
 ## Legal / Compliance Notes
 

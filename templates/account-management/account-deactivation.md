@@ -22,9 +22,9 @@ Sent when an account is deactivated or deleted — by the user, admin, or policy
 
 ## Legal / Compliance Notes
 
-- GDPR Art. 17: user-requested deletion must complete within 30 days
+- GDPR Art. 17: deletion within one calendar month (28–31 days); 2-month extension possible for complex cases; Art. 17(3) excepts legal holds, compliance obligations, and public interest tasks
 - Retain invoices/receipts separately — financial records have longer retention
-- US: CCPA and VCDPA deletion timelines vary by state
+- US: CCPA, VCDPA, and most state laws require deletion within 45 days, with a 45-day extension for complex requests
 - Don't delete data subject to an active legal hold or open billing dispute
 - COPPA: stricter timelines if minors use the platform
 
@@ -43,7 +43,7 @@ Data deleted: [date +30 days]
 
 Before [date]:
 → Export your data: [export link]
-→ Cancel this request: [undo link]
+→ [User/policy-triggered only:] Cancel this request: [undo link]
 
 Outstanding balance: [none / $X will be charged or credited]
 

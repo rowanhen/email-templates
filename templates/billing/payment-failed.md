@@ -27,6 +27,7 @@ First dunning email. Sent immediately when a payment attempt fails. Tone: helpfu
 - Include full billing entity name and address in footer (required in EU, UK, US)
 - Provide clear path to cancel to avoid disputed charges (Visa/MC requirement)
 - Don't threaten legal action in first contact — it escalates disputes
+- Visa/MC VAMP rules cap retries at ~15 per card per 30 days — stay within this limit
 
 ## Typical Structure
 
@@ -37,12 +38,12 @@ Hi [Name],
 
 We weren't able to process your payment of [amount] for [Plan Name].
 
-This is usually due to an expired card or updated billing details.
+This is usually due to an expired card, a declined payment, or insufficient funds.
 Your account is still active — nothing has changed yet.
 
 [Update Payment Method →]
 
-If we can't process payment by [date +7 days], your subscription
+If we can't process payment by [Date], your subscription
 will be paused. To cancel instead, you can do that here: [cancel link].
 
 Any questions? Reply to this email.

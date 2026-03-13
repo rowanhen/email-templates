@@ -44,7 +44,7 @@ Expected arrival: 5–10 business days (varies by bank)
 
 Reference: [transaction ID or refund ID]
 
-Your [Product] account: [still active / cancelled as of date]
+Your [Product] account: [NOTE: select one — remove the other: still active | cancelled as of [date]]
 
 If you don't see the refund after 10 business days, reply to this
 email with your reference number and we'll investigate.

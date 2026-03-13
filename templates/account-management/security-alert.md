@@ -6,7 +6,7 @@ Sent on suspicious activity: new device login, unusual location, failed attempt 
 
 - New device / browser login (first seen)
 - Login from a new country or flagged IP range
-- 5+ failed login attempts within 10 minutes
+- 5+ failed login attempts within 10 minutes (treat as a starting point — tune threshold to your baseline)
 - OAuth token or API key used from a new IP for the first time
 
 ## Key Elements
@@ -22,7 +22,7 @@ Sent on suspicious activity: new device login, unusual location, failed attempt 
 - Send within 60 seconds of the trigger — stale security alerts erode trust
 - Don't alert on every login — tune anomaly thresholds first or users will tune you out
 - Use city/region geolocation, not raw IP (privacy-preserving)
-- Don't pre-emptively lock the account — let the user decide after seeing the alert
+- Low-confidence signals (new location, isolated failure): alert only — do not lock. High-confidence signals (impossible travel, concurrent foreign sessions): auto-terminate all sessions per OWASP / NIST SP 800-63B, then alert
 
 ## Security / Compliance Notes
 

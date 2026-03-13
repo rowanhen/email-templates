@@ -32,13 +32,10 @@ Hi [Name],
 Two-factor authentication ([method]) has been enabled on your
 [Product] account on [date] at [time].
 
-Your backup codes — save these, we can't recover them:
-  [code1]    [code2]    [code3]
-  [code4]    [code5]    [code6]
+View and save your backup codes in your account settings — they are
+shown once and cannot be emailed for security reasons.
 
-Store offline or in a password manager.
-
-Wasn't you? [Secure my account →]
+Wasn't this you? [Secure my account →]
 [Company] Security
 ```
 

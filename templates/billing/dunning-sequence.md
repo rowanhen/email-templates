@@ -15,9 +15,10 @@ Multi-step cadence for recovering failed payments. Four touchpoints over 14 days
 ```
 Subject: Reminder: payment pending for [Plan Name]
 Hi [Name],
-Payment of [amount] still outstanding. Account active until [date].
+Just a friendly heads-up — your payment of [amount] for [Plan Name]
+is still outstanding. Your account remains active until [date].
 [Update Payment Method →]
-[Name], Billing
+Any questions? Reply and we'll help. [Name], Billing
 ```
 
 ## Day 7 — Urgency
@@ -34,7 +35,7 @@ Account pauses on [date] without payment.
 ```
 Subject: Final notice: account pausing tomorrow
 Hi [Name],
-Last attempt before pausing your account.
+This is our last attempt before pausing your account.
 [Update Payment Method →]    [Cancel Account →]
 After [date] you'll lose access. Export data now if needed: [export link]
 [Name], [Title], [Company]
@@ -44,7 +45,7 @@ After [date] you'll lose access. Export data now if needed: [export link]
 
 - Always provide a cancel option — withholding it invites chargebacks
 - Retain dunning logs for billing dispute resolution
-- EU/GDPR: transactional dunning emails still require unsubscribe option
+- Visa/MC VAMP rules cap retries at ~15 per card per 30 days — exceeding this risks programme fines
 - Don't charge retry fees without prior disclosure in your Terms
 
 ## Metrics to Track

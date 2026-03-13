@@ -41,11 +41,11 @@ From: [Old Plan] ([old price]/[period])
 To:   [New Plan] ([new price]/[period])
 Effective: [immediately / [date]]
 
-[Upgrade:] Charged today: [prorated amount]
-(Credit of [amount] for unused [Old Plan] time)
+[UPGRADE ONLY — delete this block for downgrades:]
+Charged today: [prorated amount] (credit of [amount] for unused [Old Plan] time)
 
-[Downgrade:] [Old Plan] runs until [date].
-From [date], [X feature] will no longer be available.
+[DOWNGRADE ONLY — delete this block for upgrades:]
+[Old Plan] runs until [date]. From [date], [X feature] will no longer be available.
 
 Next charge: [amount] on [date]
 
