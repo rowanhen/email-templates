@@ -21,6 +21,7 @@
 | `drip-campaigns` | ABBA campaigns, nurture sequences, lifecycle automations |
 | `legal-compliance` | GDPR, double opt-in, terms updates, unsubscribe |
 | `internal` | Employee onboarding, team announcements |
+| `growth` | Upsells, cross-sells, referral programs, case studies, waitlists |
 
 ## Quick Start
 
