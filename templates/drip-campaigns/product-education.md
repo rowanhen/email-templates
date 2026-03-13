@@ -30,7 +30,7 @@ Feature adoption sequence for existing users. Guides customers from basic usage 
 
 ## Typical Structure
 ```
-Subject: You haven't tried [Feature] yet — here's what you're missing
+Subject: One feature that could save you time: [Feature]
 
 Hi [Name],
 

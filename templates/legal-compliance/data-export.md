@@ -12,7 +12,8 @@ Notification sent to a user when their data export (GDPR Subject Access Request 
 
 - **GDPR Art. 15:** Data subjects have the right to access their personal data — free of charge, first request
 - **CCPA § 1798.100:** California residents have the right to know what data is collected and to receive it in a portable format
-- Provide data in a machine-readable format (JSON or CSV) — GDPR requires "commonly used, machine-readable" format
+- **GDPR Art. 15(3):** Data subjects have the right to receive their personal data in a "commonly used electronic format" — machine-readability is not explicitly required but is best practice
+- **GDPR Art. 20 (Data Portability):** Where processing is consent- or contract-based, data subjects can request data in a "commonly used, machine-readable, interoperable format" — this is a stronger right than Art. 15 access; confirm which applies to the request
 - Download links must be authenticated — the data file must only be accessible to the verified account holder
 - Links should expire (72h–7 days) and be single-use or access-logged; data files should not be publicly guessable URLs
 - Log the fulfillment date, recipient, and request ID — required for compliance audit trail

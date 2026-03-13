@@ -39,7 +39,7 @@ Why: [One sentence rationale]
 [Read the updated Privacy Policy →]
 [Compare to previous version →]
 
-To opt out before [date]: [delete account] or [privacy@company.com]
+To opt out before [date]: [manage your data preferences →] · [contact privacy@company.com] · [delete account]
 
 [Legal entity] · [Address] · [DPO contact if applicable]
 ```

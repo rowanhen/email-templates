@@ -26,19 +26,31 @@ Multi-touch sequence for leads interested but not yet ready to buy. Build trust 
 - If no engagement by email 6, move to re-engagement drip or remove entirely
 
 ## Typical Structure
+
+Vary opener style across the sequence — using pain-agitation every email is formula-recognisable and trains readers to skim. Rotate through: leading with a counter-intuitive insight, opening with a short story or example, asking a genuine question, or stating a surprising fact.
+
 ```
+[Email 1 — deliver value immediately:]
+Subject: Your [lead magnet] + one thing most people miss
+
+Hi [Name], here's [what they signed up for →].
+One thing to keep in mind as you read it: [brief insight].
+Next week: [tease topic]
+[Name], [Company] | Unsubscribe: [link]
+
+---
+[Email 2 — insight-led opener:]
 Subject: The real reason [problem] keeps happening (not what you think)
 
 Hi [Name],
 
-Most [job title]s struggle with [problem]. The usual fix is [X]. It rarely works.
+Here's something counterintuitive: [surprising insight — lead with the idea, not the pain].
 
-Here's why: [1–2 sentence insight — teach something real]
+[1–2 sentence explanation]
 
-The better approach: [practical tip they can act on today]
+The practical takeaway: [actionable tip]
 
 Next week: [tease topic]
-
 [Name], [Company] | Unsubscribe: [link]
 ```
 

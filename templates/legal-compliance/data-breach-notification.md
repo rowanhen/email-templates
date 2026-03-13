@@ -1,18 +1,17 @@
 # Data Breach Notification
 
-Legally required notification to affected users following a personal data breach. This is a legal document delivered via email — every word matters. Seek legal review before sending.
+Legally required notification to affected users following a personal data breach. This is a legal document delivered via email — every word matters. Review this template against your legal counsel **before any incident occurs** — do not attempt first-time legal review during the 72h response window.
 
 ## When to Send
-- **GDPR:** Notify affected individuals "without undue delay" once the breach is confirmed to pose high risk — regulator notification required within 72h of becoming aware (Art. 33)
-- **CCPA / US state laws:** Most require notice within 30–72 days depending on state
-- Notify the supervisory authority (ICO in UK, lead DPA in EU) before or alongside user notification
-- Do not delay beyond legal limits to "finish investigating" — send with known facts; update separately if needed
+- **GDPR Art. 33 (Supervisory Authority):** Notify the regulator (ICO in UK, lead DPA in EU) within 72h of becoming aware of the breach — even if facts are incomplete; update the regulator as more becomes known
+- **GDPR Art. 34 (Affected Individuals):** Notify individuals "without undue delay" once the breach is confirmed to pose high risk — no fixed hour limit, but do not delay without justification
+- **CCPA / US state laws:** California requires notice "without unreasonable delay" (no specific day count); most other US states require notice within 30–60 days depending on state
+- Do not delay notification beyond legal limits to "finish investigating" — send with known facts; update separately if needed
 
 ## Legal / Compliance Notes
 - **GDPR Art. 34(2)** required content: nature of breach, DPO contact, likely consequences, measures taken/proposed
-- **GDPR Art. 33:** Regulator notification within 72h even if information is incomplete — update the regulator as facts emerge
 - Stick to confirmed facts — do not speculate about cause or scope
-- Keep a breach register (Art. 30): timeline, scope, notifications sent, remediation steps
+- Keep a breach register (Art. 33(5)): timeline, scope, notifications sent, remediation steps
 - Send from a named executive or DPO — not a marketing alias
 
 ## Best Practices

@@ -47,6 +47,6 @@ Submit for next week by Wednesday EOD → #newsletter-submissions
 ```
 
 ## Metrics to Track
-- **Open rate** — aim for 60%+; steady decline = content quality or frequency problem
+- **Open rate** — aim for 75%+ for internal newsletters (external benchmarks of 60%+ don't apply; internal audiences have higher baseline expectation); steady decline = content quality or frequency problem
 - **Click rate** — shows whether content generates genuine interest vs. passive opens
 - **Submission volume** — how many people contribute; low = low ownership of company culture

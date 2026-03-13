@@ -51,6 +51,6 @@ safely ignore this email — you won't receive anything further.
 
 ## Metrics to Track
 
-- **Confirmation rate** — % who click confirm within 48h; below 50% suggests friction in signup flow or deliverability issues
+- **Confirmation rate** — % who click confirm within 48h; below 65% suggests friction in signup flow or deliverability issues
 - **Confirmation link expiry rate** — high expiry rate = send delay problem or spam folder placement
 - **List quality post-confirmation** — compare bounce rate and engagement vs. single opt-in lists

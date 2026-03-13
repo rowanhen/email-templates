@@ -11,15 +11,11 @@ Two related emails for employee departures: one to the departing employee, one t
 - **GDPR:** Inform the leaver what employee data you retain and for how long per your HR data retention policy
 - **References:** Do not include anything in the team email characterising the leaver's performance — creates legal exposure
 
-## Best Practices (to the leaver)
-- Confirm last day, final payroll date, and equity vesting status in writing — reduces ambiguity and anxiety
-- Explain equipment return, reference process, and post-departure payslip access clearly
-- Keep tone professional and warm — how you treat leavers shapes how current employees feel about the company
+## Best Practices
 
-## Best Practices (to the team)
-- One sentence on contribution; one sentence on next steps for their work — that's the whole email
-- If their role is being filled, say so (or say you'll share more soon)
-- Do not share reasons for departure unless the leaver has agreed to the framing
+**To the leaver:** Confirm last day, final payroll, and equity vesting in writing. Explain equipment return and post-departure payslip access. Keep tone warm and genuine — how you treat leavers shapes how current employees feel.
+
+**To the team:** One sentence on contribution; one sentence on next steps. Say if the role is being filled (or that you'll share more soon). Do not share reasons for departure unless the leaver has agreed to the framing.
 
 ## Typical Structure
 ```
@@ -37,7 +33,7 @@ Your last day is [date]. Here's what to expect:
 
 Exit interview (optional): [link or invite]
 
-Thank you for [X] at [Company]. We wish you well.
+Thank you for everything you've brought to [Company] — it's been a genuine pleasure working with you.
 [Manager or HR name]
 
 ---
@@ -47,7 +43,7 @@ Subject: [Name] is leaving [Company]
 Hi [Team],
 
 [Name] will be leaving [Company]; their last day is [date].
-[One sentence on their contribution.]
+[One sentence on their contribution — e.g., "Sarah built our onboarding flow from scratch and it's made a real difference to how new hires settle in."]
 [Their work] will be covered by [person/plan] — more detail to follow.
 
 Please join me in wishing [Name] well.
