@@ -2,6 +2,8 @@
 
 For users who signed up for a free trial but never activated — didn't log in, didn't complete setup, didn't use the core feature. Not the same as trial expiry; these users ghosted at the start.
 
+> **Compliance (GDPR/ePrivacy):** Trial signup provides lawful basis for service emails, but re-engagement nudges may be classified as marketing. Ensure signup includes clear notice of activation emails. Honour unsubscribes.
+
 ## When to Send
 
 - **Day 1:** 24 hours after signup with no login — quick nudge
