@@ -32,19 +32,19 @@ One actionable technique per email. The recurring "tip of the week/month" format
 ## Typical Structure
 
 ```
-Subject: Tip #{{n}}: {{Short tip name}}
+Subject: Tip #[n]: [Short tip name]
 
-**{{Tip name}}**
+**[Tip name]**
 
-{{One sentence: the technique in plain language.}}
+[One sentence: the technique in plain language.]
 
-{{Why it works — 1–2 sentences.}}
+[Why it works — 1–2 sentences.]
 
-{{Optional: a concrete example showing it in use.}}
+[Optional: a concrete example showing it in use.]
 
 Try it this week.
 
-— {{Author name}}
+— [Author name]
 ```
 
 ## Metrics to Track

@@ -32,18 +32,18 @@ Structured product or service update log. The "What's new this month" recurring 
 ## Typical Structure
 
 ```
-Subject: {{Product}} changelog — {{Month YYYY}}
+Subject: [Product] changelog — [Month YYYY]
 
-**What's new in {{Month}}**
+**What's new in [Month]**
 
 🆕 New
-- {{Feature name}}: {{One sentence on what it does}}
+- [Feature name]: [One sentence on what it does]
 
 ⚡ Improved
-- {{Area}}: {{What changed and why it's better}}
+- [Area]: [What changed and why it's better]
 
 🔧 Fixed
-- {{Issue description}}: {{What was fixed}}
+- [Issue description]: [What was fixed]
 
 [View full release notes →]
 ```

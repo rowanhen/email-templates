@@ -21,7 +21,7 @@ Technical communication for developers: API changes, deprecation notices, migrat
 - **Be precise** — "some users may be affected" is not acceptable; specify conditions
 - **Version everything** — always reference exact version numbers
 - **Include before/after examples** for breaking changes
-- **Give adequate notice** — deprecations should have at least 60–90 days notice where possible
+- **Give adequate notice** — deprecations should have at least 6–12 months notice for stable APIs; 60–90 days minimum for beta/experimental endpoints
 
 ## Common Mistakes
 
@@ -33,22 +33,22 @@ Technical communication for developers: API changes, deprecation notices, migrat
 ## Typical Structure
 
 ```
-Subject: {{Action required/Notice}}: {{Change name}} — {{Version or Date}}
+Subject: [Action required/Notice]: [Change name] — [Version or Date]
 
-**Summary:** {{One sentence describing the change}}
+**Summary:** [One sentence describing the change]
 
-**Who is affected:** {{Conditions under which developers are impacted}}
+**Who is affected:** [Conditions under which developers are impacted]
 
 **What's changing:**
-{{Technical description — be specific}}
+[Technical description — be specific]
 
 **What you need to do:**
-{{Step-by-step migration, with code snippet if relevant}}
+[Step-by-step migration, with code snippet if relevant]
 
 **Timeline:**
-- Available now: {{Version X}}
-- Deprecated: {{Date}}
-- Removed: {{Date}}
+- Available now: [Version X]
+- Deprecated: [Date]
+- Removed: [Date]
 
 [Full migration guide →]  [Changelog →]
 ```

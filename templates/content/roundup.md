@@ -32,19 +32,19 @@ Curated links and resources grouped by theme. The "This week in X" pattern — a
 ## Typical Structure
 
 ```
-Subject: This week in {{topic}} — {{date}}
+Subject: This week in [topic] — [date]
 
-{{One-paragraph editorial intro — your take on the week}}
+[One-paragraph editorial intro — your take on the week]
 
-🔗 {{Item title}}
-{{Source}} — {{One sentence: why this matters}}
+🔗 [Item title]
+[Source] — [One sentence: why this matters]
 
-🔗 {{Item title}}
-{{Source}} — {{One sentence: why this matters}}
+🔗 [Item title]
+[Source] — [One sentence: why this matters]
 
 [... repeat for each item]
 
-— {{Author name}}
+— [Author name]
 ```
 
 ## Metrics to Track

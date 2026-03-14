@@ -32,17 +32,17 @@ Personal, opinion-driven message from a real person. A relationship-building pat
 ## Typical Structure
 
 ```
-Subject: {{Personal subject line — a thought, not a product name}}
+Subject: [Personal subject line — a thought, not a product name]
 
-Hi {{first_name or "there"}},
+Hi [first_name or "there"],
 
-{{Personal opening — what's on your mind this week/month}}
+[Personal opening — what's on your mind this week/month]
 
-{{Your take — 2–3 sentences of genuine opinion or observation}}
+[Your take — 2–3 sentences of genuine opinion or observation]
 
-{{Optional: what's in this issue, briefly}}
+[Optional: what's in this issue, briefly]
 
-— {{Real name}}, {{Title}}
+— [Real name], [Title]
 ```
 
 ## Metrics to Track

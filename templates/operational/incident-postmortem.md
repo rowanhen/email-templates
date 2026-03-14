@@ -1,6 +1,6 @@
 # Incident Postmortem
 
-Transparency email sent after an incident is resolved. Covers what happened, root cause, resolution, and prevention steps. Distinct from a data-breach notification — this is about operational reliability, not legal compliance.
+Transparency email sent after an incident is resolved. Covers what happened, root cause, resolution, and prevention steps. Distinct from a data-breach notification — this is about operational reliability, not legal compliance. For incidents involving personal data, see `legal-compliance/data-breach-notification.md` for GDPR/CCPA obligations.
 
 ## When to Send
 
@@ -32,24 +32,24 @@ Transparency email sent after an incident is resolved. Covers what happened, roo
 ## Typical Structure
 
 ```
-Subject: Incident report: {{Brief description}} — {{Date}}
+Subject: Incident report: [Brief description] — [Date]
 
-On {{date}}, {{service}} experienced {{brief description of impact}}.
+On [date], [service] experienced [brief description of impact].
 
 **Timeline**
-- {{time}}: Issue began / {{time}}: Detected / {{time}}: Resolved
+- [time]: Issue began / [time]: Detected / [time]: Resolved
 
 **Root cause**
-{{Specific explanation of what caused the incident}}
+[Specific explanation of what caused the incident]
 
 **What we did**
-{{Steps taken to resolve it}}
+[Steps taken to resolve it]
 
 **Prevention**
-- {{Concrete action #1}}
-- {{Concrete action #2}}
+- [Concrete action #1]
+- [Concrete action #2]
 
-We apologise for the disruption. — {{Team name}}
+We apologise for the disruption. — [Team name]
 ```
 
 ## Metrics to Track

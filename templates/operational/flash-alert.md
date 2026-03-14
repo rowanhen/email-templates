@@ -7,6 +7,7 @@ Urgent, time-sensitive notification with minimal copy. One key message, one imme
 - When immediate action is required from the recipient
 - When delay increases risk or harm
 - Not for general updates — use changelog or incident-postmortem instead
+- For data breach notifications with legal/compliance requirements, see `legal-compliance/data-breach-notification.md`
 
 ## Key Elements
 
@@ -19,7 +20,7 @@ Urgent, time-sensitive notification with minimal copy. One key message, one imme
 
 - **Strip everything non-essential** — if it's not required for the action, remove it
 - **Lead with the action, not the backstory** — urgency email readers scan for "what do I do"
-- **Use plain subject lines** — "Action required: {{topic}}" outperforms clever subjects in urgent contexts
+- **Use plain subject lines** — "Action required: [topic]" outperforms clever subjects in urgent contexts
 - **Send at appropriate times** — a "flash alert" at 3am may need an SMS fallback for truly critical actions
 
 ## Common Mistakes
@@ -32,17 +33,17 @@ Urgent, time-sensitive notification with minimal copy. One key message, one imme
 ## Typical Structure
 
 ```
-Subject: Action required: {{Brief description}}
+Subject: Action required: [Brief description]
 
-**{{One sentence: what happened or what is needed}}**
+**[One sentence: what happened or what is needed]**
 
-{{One sentence: context or impact, if essential to understanding the action}}
+[One sentence: context or impact, if essential to understanding the action]
 
-[{{Action CTA — specific verb}} →]
+[[Action CTA — specific verb] →]
 
-{{If applicable: "This must be completed by {{time/date}}"}}
+[If applicable: "This must be completed by [time/date]"]
 
-Questions? {{contact link or reply}}
+Questions? [contact link or reply]
 ```
 
 ## Metrics to Track

@@ -33,19 +33,19 @@ Learning opportunity email: new courses, skill development programs, certificati
 ## Typical Structure
 
 ```
-Subject: New: {{Certification or course name}} — {{Outcome or credential}}
+Subject: New: [Certification or course name] — [Outcome or credential]
 
-**{{Course or certification name}}**
-{{One sentence: what you'll be able to do after completing this}}
+**[Course or certification name]**
+[One sentence: what you'll be able to do after completing this]
 
 **What's included:**
-- {{Module or topic}}
-- {{Module or topic}}
-- {{Credential or outcome on completion}}
+- [Module or topic]
+- [Module or topic]
+- [Credential or outcome on completion]
 
-⏱ {{Time to complete}} | 📅 {{Start date or deadline if applicable}}
+⏱ [Time to complete] | 📅 [Start date or deadline if applicable]
 
-{{Optional: "Join {{N}} others who have already completed this"}}
+[Optional: "Join [N] others who have already completed this"]
 
 [Enrol now →]
 ```

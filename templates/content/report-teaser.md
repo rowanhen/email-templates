@@ -32,20 +32,20 @@ Key stats and findings from a report or resource, with a CTA to download the ful
 ## Typical Structure
 
 ```
-Subject: {{Surprising stat from the report}} — new {{report/guide/research}}
+Subject: [Surprising stat from the report] — new [report/guide/research]
 
-{{1–2 sentences framing the report topic and why it matters now}}
+[1–2 sentences framing the report topic and why it matters now]
 
 **What we found:**
-- {{Stat or finding #1}}
-- {{Stat or finding #2}}
-- {{Stat or finding #3}}
+- [Stat or finding #1]
+- [Stat or finding #2]
+- [Stat or finding #3]
 
-{{One sentence on what else is inside the full report}}
+[One sentence on what else is inside the full report]
 
 [Download the full report →]
 
-{{Credibility note: "Based on X respondents / sources"}}
+[Credibility note: "Based on X respondents / sources"]
 ```
 
 ## Metrics to Track

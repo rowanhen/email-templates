@@ -33,20 +33,20 @@ Single-topic editorial or feature email. Long-form, one subject explored thoroug
 ## Typical Structure
 
 ```
-Subject: {{Specific claim or provocative question about the topic}}
+Subject: [Specific claim or provocative question about the topic]
 
-{{Opening hook — surprising fact, counter-intuitive framing, or a question}}
+[Opening hook — surprising fact, counter-intuitive framing, or a question]
 
-## {{Section 1 heading}}
-{{Body — 2–4 paragraphs}}
+## [Section 1 heading]
+[Body — 2–4 paragraphs]
 
-## {{Section 2 heading}}
-{{Body — 2–4 paragraphs}}
+## [Section 2 heading]
+[Body — 2–4 paragraphs]
 
-## {{Conclusion heading}}
-{{What to take away. Your opinion.}}
+## [Conclusion heading]
+[What to take away. Your opinion.]
 
-— {{Author name}}
+— [Author name]
 ```
 
 ## Metrics to Track

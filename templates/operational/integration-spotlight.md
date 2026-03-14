@@ -20,7 +20,7 @@ Ecosystem or partnership email: "Here's how X connects with Y." Use-case driven,
 - **Lead with the outcome, not the tech** — "Sync your contacts automatically" beats "Bi-directional API sync"
 - **One integration per email** — don't combine multiple integrations; dilutes the message
 - **Use a concrete example scenario** — abstract capability is less compelling than a named workflow
-- **Show the connected logos** — visual pairing reinforces the ecosystem story
+- **Show the connected logos** — visual pairing reinforces the ecosystem story (HTML email only; omit for plain-text sends)
 
 ## Common Mistakes
 
@@ -32,22 +32,22 @@ Ecosystem or partnership email: "Here's how X connects with Y." Use-case driven,
 ## Typical Structure
 
 ```
-Subject: {{Product A}} + {{Product B}}: {{Outcome or use case}}
+Subject: [Product A] + [Product B]: [Outcome or use case]
 
-**{{Product A}} now connects with {{Product B}}**
+**[Product A] now connects with [Product B]**
 
-{{One sentence: the problem this integration solves}}
+[One sentence: the problem this integration solves]
 
 Here's how it works:
-1. {{Step one}}
-2. {{Step two}}
-3. {{Result — what the user gets}}
+1. [Step one]
+2. [Step two]
+3. [Result — what the user gets]
 
-Best for: {{Role or team that benefits most}}
+Best for: [Role or team that benefits most]
 
-[Connect {{Product A}} + {{Product B}} →]
+[Connect [Product A] + [Product B] →]
 
-Questions? {{link or reply}}
+Questions? [link or reply]
 ```
 
 ## Metrics to Track
