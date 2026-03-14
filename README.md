@@ -22,6 +22,8 @@
 | `legal-compliance` | GDPR, double opt-in, terms updates, unsubscribe |
 | `internal` | Employee onboarding, team announcements |
 | `growth` | Upsells, cross-sells, referral programs, case studies, waitlists |
+| `content` | Roundups, editorials, tips, lead magnets — recurring content patterns |
+| `operational` | Changelogs, postmortems, alerts, developer updates — system & product comms |
 
 ## Quick Start
 
